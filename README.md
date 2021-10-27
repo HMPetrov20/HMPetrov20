@@ -43,9 +43,8 @@
   <details>
   <summary><b>📚 Badges</b></summary>
 
-<code><a href ="https://www.credly.com/users/hristiyan-petrov/badges"><img align="left" alt="Word Office 2016" width="200px" src="https://images.credly.com/size/220x220/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" ></a></code>
-  
-  <code><a href ="https://www.credly.com/users/hristiyan-petrov/badges"><img align="left" alt="MTA" width="200px" src="https://images.credly.com/size/220x220/images/241488f4-9110-41aa-804e-51a8f8ba430d/MTA-Introduction_to_Programming_Using_HTML_and_CSS-600x600.png" ></a></code>
+<a href ="https://www.credly.com/users/hristiyan-petrov/badges"><img align="left" alt="Word Office 2016" width="200px" src="https://images.credly.com/size/220x220/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" ></a>
+ <a href ="https://www.credly.com/users/hristiyan-petrov/badges"><img align="left" alt="MTA" width="200px" src="https://images.credly.com/size/220x220/images/241488f4-9110-41aa-804e-51a8f8ba430d/MTA-Introduction_to_Programming_Using_HTML_and_CSS-600x600.png" ></a>
 </details>
   
  <hr>
