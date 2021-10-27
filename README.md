@@ -14,10 +14,12 @@
 
 <hr>
 
-<a href ="http://www.google.com" ><img align="left" alt="fb" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /><a/>
-<img align="left" alt="https://outlook.office.com/mail/inbox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+## Connect with me:
+
+<a href ="https://www.youtube.com" ><img align="left" alt="fb" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /><a/>
+<a href="https://twitter.com/explore"><img align="left" alt="twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://business.linkedin.com/marketing-solutions/linkedin-pages?trk=sem_lms_gaw&src=go-pa&veh=LMS-S_EMEA_ROE_Low_EN_SEM_SEM_GoogleAds_NA_All_NA_NA_Core_NA_Pages_Brand_Phrase_415758667344__%2Blinkedin%20%2Bpages_c__kwd-344540997011_9216596378&mcid=6842130579375308940&cname=LMS-S_EMEA_ROE_Low_EN_SEM_SEM_GoogleAds_NA_All_NA_NA_Core_NA_Pages_Brand_Phrase&camid=9216596378&asid=94475536478&targetid=kwd-344540997011&crid=415758667344&placement=&dev=c&ends=1&gclid=Cj0KCQjw8eOLBhC1ARIsAOzx5cHqtqIZ_Pikm1AS85MIqlRvRSVQeeHwyjQKYeoCNeQ_ejNweDI7BB8aAqXHEALw_wcB&gclsrc=aw.ds"><img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.instagram.com/instagram/?hl=en"><img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <br>
 <hr>
   
