@@ -9,7 +9,7 @@
 
 - 🏛️ I’m currently learning HTML5&CSS3 and C++ .
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/HMPetrov20?tab=repositories).
-- 👾 &nbsp; Fun fact: I started programming wiht Scratch
+- 👾 &nbsp; Fun fact: I started programming with Scratch.
 - ⚓ &nbsp; How to reach me: HMPetrov20@codingburgas.bg
 
 <hr>
